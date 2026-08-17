@@ -1,0 +1,2 @@
+# stylizedicons
+Stylized icons demo
